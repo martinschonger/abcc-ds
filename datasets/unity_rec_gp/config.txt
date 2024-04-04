@@ -1,0 +1,16 @@
+{
+    "config_file":"datasets/unity_rec_gp/20240304T175319/config_file.txt",
+    "trajectory_files":
+    [
+        "datasets/unity_rec_gp/20240304T175319/gp_trajectories/gp_trajectory_1.csv",
+        "datasets/unity_rec_gp/20240304T175319/gp_trajectories/gp_trajectory_2.csv",
+        "datasets/unity_rec_gp/20240304T175319/gp_trajectories/gp_trajectory_3.csv",
+        "datasets/unity_rec_gp/20240304T175319/gp_trajectories/gp_trajectory_4.csv",
+        "datasets/unity_rec_gp/20240304T175319/gp_trajectories/gp_trajectory_5.csv",
+        "datasets/unity_rec_gp/20240304T175319/gp_trajectories/gp_trajectory_6.csv",
+        "datasets/unity_rec_gp/20240304T175319/gp_trajectories/gp_trajectory_7.csv",
+        "datasets/unity_rec_gp/20240304T175319/gp_trajectories/gp_trajectory_8.csv",
+        "datasets/unity_rec_gp/20240304T175319/gp_trajectories/gp_trajectory_9.csv",
+        "datasets/unity_rec_gp/20240304T175319/gp_trajectories/gp_trajectory_10.csv"
+    ]
+}

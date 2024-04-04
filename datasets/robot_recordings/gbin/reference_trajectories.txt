@@ -1,0 +1,7 @@
+datasets/robot_recordings/gbin/reference_trajectories/Recording_2024-03-16_14-30-25.csv
+datasets/robot_recordings/gbin/reference_trajectories/Recording_2024-03-16_14-29-52.csv
+datasets/robot_recordings/gbin/reference_trajectories/Recording_2024-03-16_14-31-33.csv
+datasets/robot_recordings/gbin/reference_trajectories/Recording_2024-03-16_14-31-03.csv
+datasets/robot_recordings/gbin/reference_trajectories/Recording_2024-03-16_14-32-01.csv
+datasets/robot_recordings/gbin/reference_trajectories/Recording_2024-03-16_14-31-47.csv
+datasets/robot_recordings/gbin/reference_trajectories/Recording_2024-03-16_14-32-32.csv
