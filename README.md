@@ -2,12 +2,12 @@
 
 Accompanying code for the paper **Learning Stable and Barrier-Certified Systems for Robotic Tasks: A Compositional Approach** by
 Ali Aminzadeh<sup>1,&#42;</sup>,
-Hugo T. M. Kussaba<sup>2,&#42;</sup>,
 Martin Schonger<sup>2,&#42;</sup>,
+Hugo T. M. Kussaba<sup>2</sup>,
 Ahmed Abdelrahman<sup>2</sup>,
 Abdalla Swikir<sup>2</sup>, 
 Abolfazl Lavaei<sup>1</sup>,
-and Sami Haddadin<sup>2</sup>, which has been submitted to IROS 2024 and is currently under review.
+and Sami Haddadin<sup>2</sup>, currently under review.
 
 <sup>1</sup>School of Computing, Newcastle University, UK.\
 <sup>2</sup>Munich Institute of Robotics and Machine Intelligence (MIRMI), Technical University of Munich (TUM), Germany. Abdalla Swikir is also with Omar Al-Mukhtar University (OMU), Albaida, Libya.\
